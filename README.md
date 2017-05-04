@@ -17,11 +17,11 @@ Enjoy, and feel free to contribute your quotes to the collection, while keeping
 the content respectful and non-inflammatory!
 
 # Quotes
-
+*
 >> Have you considered encoding your [...] in DICOM?
 >>
 > Outputting in dicom should be straightforward
-
+*
 >> Thanks for sharing examples [of your DICOM datasets]. I tried to view [them] 
 >> using both [...] and [...], but was not very successful. Might
 >> be a good idea to test how the various data representations you create
